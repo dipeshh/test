@@ -3,5 +3,3 @@ if hungry =="yes" :
 	print("samosas")
 else:
 	print("do your homework")
-
-print("I'm hungry...");
